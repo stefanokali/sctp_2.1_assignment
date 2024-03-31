@@ -1,0 +1,11 @@
+.flag{
+    height:50px;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+ul{
+    padding: 0 400px 0 400px;
+}
